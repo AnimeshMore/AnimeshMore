@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshmore" alt="animeshmore" /></a> </p>
 
-- 🔭 I’m currently working on **chat application**
+- 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **MERN Stack**
 
